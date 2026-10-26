@@ -1,0 +1,11 @@
+node_modules/
+.netlify/
+.npm-cache/
+.netlify-user-config/
+legacy/
+netlify-ready-game.zip
+CHATGPT_SITES_BUILD.md
+.env
+.env.*
+netlify-function-verification/
+netlify-function-verification/
